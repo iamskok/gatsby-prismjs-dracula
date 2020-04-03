@@ -10,7 +10,7 @@
 
 <a href="https://draculatheme.com">
 	<p align="center">
-		<img alt="Gatsby" src="https://draculatheme.com/assets/img/dracula.gif" width="350" />
+		<img alt="Gatsby" src="https://media3.giphy.com/media/PRy5GPH1uAeNa/giphy.gif?cid=ecf05e47cad6a4915585c913706ff67a40259904e4a8039e&rid=giphy.gif" width="350" />
 	</p>
 </a>
 
