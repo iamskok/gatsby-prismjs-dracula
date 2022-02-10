@@ -43,6 +43,6 @@
     "gatsby-line-highlights-dracula": "^0.1.3",
     "gatsby-line-numbers-dracula": "^0.1.2",
     "gatsby-syntax-highlights-dracula": "^0.1.5",
-    "node-sass": "^4.11.0"
+    "node-sass": "^7.0.0"
   }
 }
